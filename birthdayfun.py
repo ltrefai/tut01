@@ -25,5 +25,5 @@ def jkjk(name):
     if i == name:
         return "I'm sad {}, you were supposed to be a funny one.".format(name)
     else:
-        return "I know who you are. I know where you live. Be afraid. Very afraid."
+        return "I know who you are! I know where you live! Be afraid! Very afraid!"
     
