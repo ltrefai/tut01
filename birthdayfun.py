@@ -1,6 +1,6 @@
 def happy_birthday(name, age):
     
-    i = input("Hello, is it your birthday today?")
+    i = input("Hello, is it your birthday tomorrow or today?")
     if i == "yes":
         return "HAPPY BIRTHDAY {}! {} AIN'T THAT OLD.".format(name, age)
     else:
